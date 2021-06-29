@@ -1,0 +1,7 @@
+Caro professor, 
+
+considerando que esta atividade tinha que se basear na entrega de prototyping, e em minha avaliação de que o meu trabalho daquela fase não foi satisfatório, tomei a liberdade de repensar o layout do meu HealthTrack e por isso envio uma pasta com a prototipação refeita e padronizada com o modelo (HTMLs) que estou enviado para esta atividade.
+
+Nem todas as páginas foram criadas, e ainda há muito para ser feito, porém para esta etapa espero estar enviando um conteúdo satisfatório para a sua avaliação.
+
+Att, Raphael Philippe - RM87246

@@ -1,0 +1,128 @@
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 5px;
+    margin: auto;
+    background-color: #E0E0E0;
+}
+
+.titulo-signin {
+    width: 50%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+    margin-top: 13%;
+}
+
+.nome-titulo-ht {
+    width: 90%;
+}
+
+.form-dados {
+    max-width: 700px;
+    margin: auto;
+    padding: 20px;
+    background-color: #E0E0E0;
+}
+
+.logo-ht {
+    width: 35%; 
+}
+
+.header-home {
+    margin: auto;
+    
+}
+
+.header-home img {
+    width: 800px;
+    align: center;
+}
+
+.header-bg {
+    background-image: url("imagens/man-athlete_P.jpg");
+}
+
+.container-imagem {
+     max-width: 400px;
+}
+
+#sec1 {
+    background: #E0E0E0;
+    
+}
+
+#body {
+    background: #E0E0E0;
+}
+
+#body-dash {
+    background: #FFFFFF;
+    max-width: 1380px;
+    align-content: center;
+
+}
+
+.borda {
+    border: 1px solid red;
+}
+
+.posicaoCards {
+    margin: 1px 15px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+#treino {
+    background: url(../imagens/mulher-esteira-cutted.png);
+}
+
+#costas {
+    background-image: url(../imagens/costas.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#medita {
+    background-image: url(../imagens/medita.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.rodape {
+    height: 200px;
+    background: #E0E0E0;
+}
+
+.rodape img {
+    width: 20%;
+}
+
+.card-dash {
+     border-radius: 20px;
+}
+
+#grafico-barras {
+    width: 80%;
+}
+
+#agenda {
+    width: 100%;   
+}
+
+#foto-perfil {
+     width: 15%;
+     border-radius: 20px;
+     background-color: white;
+}
+
+#foto-perfil-logado {
+     width: 13%;
+     border-radius: 20px;
+     background-color: white;
+}
+
+.boras-arredondadas {
+    border-radius: 20px;
+}
+
